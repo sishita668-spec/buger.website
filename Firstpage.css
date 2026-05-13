@@ -1,0 +1,220 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.Nav_bar{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    height:54.5px;
+
+}
+            .nav1
+            {
+                align-items: right;
+                font-family: 'Times New Roman', Times, serif;
+                color: black ;   
+                padding: 8px 16px ;
+                letter-spacing: 4px;
+
+                
+            }
+
+            .nav2
+            {
+                align-items: left;
+                text-emphasis-color: black;
+                font-family: 'Times New Roman', Times, serif;
+                letter-spacing: 4px;
+                padding: 8px 16px ;
+            }
+    .pp
+    {
+        color:black
+    }
+
+
+.burger{
+    width: 100%;
+}
+.img-1
+{
+        width: 100%;
+}
+.heading-1
+{
+    margin-top: -61px;
+    font-family: "Playfair Display";
+}
+
+
+
+.container
+{
+ 
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 64px;
+    padding-bottom: 64px;
+
+}
+
+.box1
+{
+   
+    margin-block: 10px;
+    opacity: 0.75;
+    height: 650px;
+    
+}
+
+
+.box2{
+    margin-left: 644px;
+    margin-top: -621px;
+    letter-spacing: normal;
+    padding: 20px 10px;
+    flex: revert-layer;
+}
+            .heading2
+            {
+                color: rgb(0, 0, 0);
+                    text-align:center;
+                    font-family: "Playfair Display";
+            }
+
+            .heading3
+            {
+                color: rgb(0, 0, 0);
+                    text-align:center;
+                    font-family: "Playfair Display";
+                
+            }
+
+                .para1 
+                {
+                    color: black;
+                    text-align:center;
+                    font-family: "Times New Roman", Georgia, Serif;
+                }
+                .para2
+                {
+                    color: black;
+                    text-align: center;
+                    font-family: "Times New Roman", Georgia, Serif;
+                    opacity:0.75;
+                }
+          
+
+
+
+.container
+{
+   margin-left: auto;
+    margin-right: auto;
+    padding-top: 64px;
+    padding-bottom: 64px;
+
+}
+    .box3
+    {
+        padding-left: 235px;
+        height: auto;
+        width: auto;
+      
+    }
+        .mnu
+        {
+          font-family: "Playfair Display";
+          font-weight:  200;
+          display: block;
+         font-weight: bold; 
+         text-align: center;  
+         font-size: 30px;
+        }
+
+               h6, h7,h8,h9,h10
+            {
+                font-size: 20px;
+                margin: 10px 0;
+                font-family: "Playfair Display";
+                font-weight: 200;
+                display: block;
+                font-weight: bold;
+               
+            }
+
+                h12,h13,h14,h15,h11
+            {
+                color: #757575;
+                display: block;
+                font-family: "Times New Roman", Georgia, Serif;
+
+            }
+    
+
+.container
+{
+     padding-top: 64px;
+    padding-bottom: 64px;
+}
+    
+  
+  
+
+
+.box5
+{
+    width: auto;
+    height: auto;
+
+h16
+    {
+        font-family: "Playfair Display";
+         letter-spacing: 5px;
+         font-size: 36px;
+    }
+p
+    {
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+h17
+    {
+        font-weight: bolder;
+        color: #607d8b;
+        font-family: "Times New Roman", Georgia, Serif;
+        font-size: 18px;
+    }
+h18
+    {
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+}
+
+
+.box6
+{
+    width: auto;
+    height: auto;
+
+    input 
+        {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border:none;
+            border-bottom: 3px black;
+        }
+}
+
+
+
+
+
+
+
